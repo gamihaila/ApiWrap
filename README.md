@@ -1,4 +1,4 @@
-# WrapIt
+# ApiWrap
 Simple HTTP POST API wrapper for Python classes.
 
 # Example:

@@ -7,8 +7,8 @@ setup(
     author = 'George A. Mihaila',
     author_email = 'george.mihaila@gmail.com',
     license = 'MIT',
-    url = 'https://github.com/gamihaila/WrapIt',
-    download_url = 'https://github.com/gamihaila/WrapIt/archive/0.1.1.tar.gz',
+    url = 'https://github.com/gamihaila/ApiWrap',
+    download_url = 'https://github.com/gamihaila/ApiWrap/archive/0.1.1.tar.gz',
     packages=['wrapit'],
     install_requires=[
         "Flask"
