@@ -8,7 +8,7 @@ setup(
     author_email = 'george.mihaila@gmail.com',
     license = 'MIT',
     url = 'https://github.com/gamihaila/WrapIt',
-    download_url = 'https://github.com/gamihaila/WrapIt/archive/0.1.0.tar.gz',
+    download_url = 'https://github.com/gamihaila/WrapIt/archive/0.1.1.tar.gz',
     packages=['wrapit'],
     install_requires=[
         "Flask"
