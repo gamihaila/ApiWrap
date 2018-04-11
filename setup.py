@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'apiwrap',
-    version = '0.1.0',
+    version = '0.1.1',
     description = 'A simple HTTP POST API wrapper for Python classes',
     author = 'George A. Mihaila',
     author_email = 'george.mihaila@gmail.com',
